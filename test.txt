@@ -1,1 +1,2 @@
 Hello!
+Промяна директно в GitHub (Remote)
